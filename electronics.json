@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "Arduino Uno R3",
+        "category": "Microcontroller",
+        "price": 850,
+        "buy_link": "https://www.amazon.in/dp/B008GRTSV6",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Uno_R3_Front.jpg"
+    },
+    {
+        "id": 2,
+        "name": "ESP32 Dev Board",
+        "category": "WiFi + Bluetooth Microcontroller",
+        "price": 450,
+        "buy_link": "https://www.amazon.in/dp/B08D6ZQDB1",
+        "image": "https://www.electronicwings.com/storage/PlatformSection/TopicContent/27/description/ESP32-DevKitC.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Raspberry Pi 4 Model B",
+        "category": "Single Board Computer",
+        "price": 5500,
+        "buy_link": "https://www.amazon.in/dp/B07TD42S27",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Raspberry_Pi_4_Model_B_-_Side.jpg"
+    },
+    {
+        "id": 4,
+        "name": "HC-05 Bluetooth Module",
+        "category": "Communication Module",
+        "price": 250,
+        "buy_link": "https://www.amazon.in/dp/B00T53V0HE",
+        "image": "https://components101.com/sites/default/files/component_pins/HC-05-Bluetooth-Module.jpg"
+    },
+    {
+        "id": 5,
+        "name": "SG90 Servo Motor",
+        "category": "Motor",
+        "price": 120,
+        "buy_link": "https://www.amazon.in/dp/B00NL4Q6AY",
+        "image": "https://components101.com/sites/default/files/component_pins/SG90-Micro-Servo-Motor.jpg"
+    },
+    {
+        "id": 6,
+        "name": "L298N Motor Driver Module",
+        "category": "Motor Driver",
+        "price": 200,
+        "buy_link": "https://www.amazon.in/dp/B00Q5F1JQ2",
+        "image": "https://components101.com/sites/default/files/component_pins/L298N-Motor-Driver-Module.jpg"
+    },
+    {
+        "id": 7,
+        "name": "DHT11 Temperature Sensor",
+        "category": "Sensor",
+        "price": 90,
+        "buy_link": "https://www.amazon.in/dp/B07DJ6Z5XG",
+        "image": "https://components101.com/sites/default/files/component_pins/DHT11-Temperature-Sensor.jpg"
+    },
+    {
+        "id": 8,
+        "name": "PIR Motion Sensor",
+        "category": "Sensor",
+        "price": 150,
+        "buy_link": "https://www.amazon.in/dp/B00N0MZTXO",
+        "image": "https://components101.com/sites/default/files/component_pins/PIR-Sensor-Module.jpg"
+    },
+    {
+        "id": 9,
+        "name": "IR Sensor Module",
+        "category": "Sensor",
+        "price": 60,
+        "buy_link": "https://www.amazon.in/dp/B07K7LJQ8M",
+        "image": "https://components101.com/sites/default/files/component_pins/IR-Sensor-Module.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Ultrasonic Sensor HC-SR04",
+        "category": "Distance Sensor",
+        "price": 80,
+        "buy_link": "https://www.amazon.in/dp/B00P8F9F2E",
+        "image": "https://components101.com/sites/default/files/component_pins/HC-SR04-Ultrasonic-Sensor.jpg"
+    },
+    {
+        "id": 11,
+        "name": "OLED Display 0.96 inch",
+        "category": "Display",
+        "price": 250,
+        "buy_link": "https://www.amazon.in/dp/B07GX5Z7V3",
+        "image": "https://components101.com/sites/default/files/component_pins/OLED-Display-Module.jpg"
+    },
+    {
+        "id": 12,
+        "name": "LCD Display 16x2",
+        "category": "Display",
+        "price": 120,
+        "buy_link": "https://www.amazon.in/dp/B00HG29B9I",
+        "image": "https://components101.com/sites/default/files/component_pins/LCD-16x2-Display-Module.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Relay Module 5V",
+        "category": "Relay",
+        "price": 70,
+        "buy_link": "https://www.amazon.in/dp/B00VY6GJJW",
+        "image": "https://components101.com/sites/default/files/component_pins/5V-Relay-Module.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Breadboard MB102",
+        "category": "Prototyping",
+        "price": 80,
+        "buy_link": "https://www.amazon.in/dp/B00CXKBJI2",
+        "image": "https://components101.com/sites/default/files/component_pins/Solderless-Breadboard.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Jumper Wires Male to Female",
+        "category": "Prototyping",
+        "price": 50,
+        "buy_link": "https://www.amazon.in/dp/B01EV70C78",
+        "image": "https://components101.com/sites/default/files/component_pins/Male-Female-Jumper-Wires.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Push Button Switch",
+        "category": "Switch",
+        "price": 10,
+        "buy_link": "https://www.amazon.in/dp/B07X5PYNZS",
+        "image": "https://components101.com/sites/default/files/component_pins/Push-Button.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Potentiometer 10K",
+        "category": "Resistor",
+        "price": 15,
+        "buy_link": "https://www.amazon.in/dp/B07Z8S3P8Z",
+        "image": "https://components101.com/sites/default/files/component_pins/Potentiometer-10k.jpg"
+    },
+    {
+        "id": 18,
+        "name": "NodeMCU ESP8266",
+        "category": "WiFi Microcontroller",
+        "price": 250,
+        "buy_link": "https://www.amazon.in/dp/B010O1G1ES",
+        "image": "https://components101.com/sites/default/files/component_pins/NodeMCU-ESP8266.jpg"
+    },
+    {
+        "id": 19,
+        "name": "RTC Module DS3231",
+        "category": "Clock Module",
+        "price": 150,
+        "buy_link": "https://www.amazon.in/dp/B07QY4Z7VB",
+        "image": "https://components101.com/sites/default/files/component_pins/DS3231-RTC-Module.jpg"
+    },
+    {
+        "id": 20,
+        "name": "SD Card Module",
+        "category": "Storage",
+        "price": 100,
+        "buy_link": "https://www.amazon.in/dp/B07P6MQB5X",
+        "image": "https://components101.com/sites/default/files/component_pins/Micro-SD-Card-Module.jpg"
+    },
+    {
+        "id": 21,
+        "name": "MAX7219 LED Matrix Module",
+        "category": "Display",
+        "price": 200,
+        "buy_link": "https://www.amazon.in/dp/B00OZSRR9A",
+        "image": "https://components101.com/sites/default/files/component_pins/MAX7219-LED-Matrix-Module.jpg"
+    },
+    {
+        "id": 22,
+        "name": "LM35 Temperature Sensor",
+        "category": "Sensor",
+        "price": 80,
+        "buy_link": "https://www.amazon.in/dp/B00JG1HSBA",
+        "image": "https://components101.com/sites/default/files/component_pins/LM35-Temperature-Sensor.jpg"
+    },
+    {
+        "id": 23,
+        "name": "RFID Module RC522",
+        "category": "RFID",
+        "price": 150,
+        "buy_link": "https://www.amazon.in/dp/B01N5AXXFT",
+        "image": "https://components101.com/sites/default/files/component_pins/RC522-RFID-Module.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Stepper Motor 28BYJ-48",
+        "category": "Motor",
+        "price": 180,
+        "buy_link": "https://www.amazon.in/dp/B00Q5F1JQ2",
+        "image": "https://components101.com/sites/default/files/component_pins/28BYJ-48-Stepper-Motor.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Laser Diode Module",
+        "category": "Laser",
+        "price": 90,
+        "buy_link": "https://www.amazon.in/dp/B08P3LPFXF",
+        "image": "https://components101.com/sites/default/files/component_pins/Laser-Diode-Module.jpg"
+    },
+    {
+        "id": 26,
+        "name": "MPU6050 Gyroscope Sensor",
+        "category": "Sensor",
+        "price": 160,
+        "buy_link": "https://www.amazon.in/dp/B00LPHSMR4",
+        "image": "https://components101.com/sites/default/files/component_pins/MPU6050-Sensor-Module.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Capacitive Soil Moisture Sensor",
+        "category": "Sensor",
+        "price": 120,
+        "buy_link": "https://www.amazon.in/dp/B07G8Y3X7P",
+        "image": "https://components101.com/sites/default/files/component_pins/Capacitive-Soil-Moisture-Sensor.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Buzzer Module",
+        "category": "Audio",
+        "price": 30,
+        "buy_link": "https://www.amazon.in/dp/B07XDCMZKJ",
+        "image": "https://components101.com/sites/default/files/component_pins/Buzzer-Module.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Reed Switch Module",
+        "category": "Switch",
+        "price": 25,
+        "buy_link": "https://www.amazon.in/dp/B07X5V5HSH",
+        "image": "https://components101.com/sites/default/files/component_pins/Reed-Switch.jpg"
+    },
+    {
+        "id": 30,
+        "name": "ESP8266 WiFi Module",
+        "category": "WiFi Module",
+        "price": 200,
+        "buy_link": "https://www.amazon.in/dp/B010O1G1ES",
+        "image": "https://components101.com/sites/default/files/component_pins/ESP8266-WiFi-Module.jpg"
+    }
+]
